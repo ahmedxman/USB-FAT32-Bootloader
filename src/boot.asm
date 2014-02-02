@@ -34,7 +34,7 @@
      DriveNumber           db 		0x00
      Signature             db 		0x29
      VolumeID              dd 		0xFFFFFFFF
-     VolumeLabel           db 		"QUASI  BOOT"
+     VolumeLabel           db 		"A2M BOOT"
      SystemID              db 		"FAT32   "
      
      START:
